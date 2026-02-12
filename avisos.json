@@ -1,0 +1,11 @@
+{
+  "avisos": [
+    {
+      "id": "manutencao-2026-02-15",
+      "tipo": "warn",
+      "titulo": "Manutenção Programada",
+      "mensagem": "Sistema indisponível dia 15/02 das 22h às 02h.",
+      "dispensavel": true
+    }
+  ]
+}
