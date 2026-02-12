@@ -4,7 +4,32 @@
       "id": "id123",
       "tipo": "info",
       "titulo": "Nova versão",
-      "mensagem": "Versão 123",
+      "mensagem": "<div style="font-family: sans-serif; font-size: 14px; line-height: 1.5; color: #172B4D;">
+  <h1 style="color: #172B4D; font-weight: 600; font-size: 29px; margin-top: 40px;">
+    Release notes - [DGA] Portal do Solicitante de Compras - PSOL-1.17.0
+  </h1>
+
+  <h3 style="color: #172B4D; font-weight: 500; font-size: 20px; margin-top: 20px;">Tarefa</h3>
+  <p style="margin-bottom: 7px;">PSOL-200 Na visualização da SEC, apresentar o número do Centro Orçamentário e a descrição</p>
+  <p style="margin-bottom: 7px;">PSOL-210 Mostrar o nome do solicitante na lista resultante de pesquisa de SECs</p>
+
+  <h3 style="color: #172B4D; font-weight: 500; font-size: 20px; margin-top: 20px;">Correção de Defeito</h3>
+  <p style="margin-bottom: 7px;">PSOL-197 Dados de almoxarifado não são exibidos na tela de resumo da SEC</p>
+
+  <h3 style="color: #172B4D; font-weight: 500; font-size: 20px; margin-top: 20px;">Requisito</h3>
+  <p style="margin-bottom: 7px;">PSOL-181 GSEC - Listar SECs</p>
+  <p style="margin-bottom: 7px;">PSOL-201 End point p consulta de detalhes da solicitacao</p>
+
+  <h3 style="color: #172B4D; font-weight: 500; font-size: 20px; margin-top: 20px;">Erro de Produção</h3>
+  <p style="margin-bottom: 7px;">PSOL-193 Subitem 4.6.1.1 no que diz respeito a carta de solidariedade não deveria aparecer</p>
+
+  <h3 style="color: #172B4D; font-weight: 500; font-size: 20px; margin-top: 20px;">Fechamento de Versão</h3>
+  <p style="margin-bottom: 7px;">PSOL-212 Fechar versão 1.17.0</p>
+
+  <h3 style="color: #172B4D; font-weight: 500; font-size: 20px; margin-top: 20px;">Mudança de Requisito ou Melhoria</h3>
+  <p style="margin-bottom: 7px;">PSOL-178 Prover serviço de consulta endereços favoritos</p>
+  <p style="margin-bottom: 7px;">PSOL-202 Ajuste na seção 4.3.2 do TR de bens escopo e registro de preço</p>
+</div>",
       "dispensavel": true
     }
   ]
